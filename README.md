@@ -1,2 +1,2 @@
 # Assessment-KYE
-About page web page template for assessment. 
+About page template for assessment. 
